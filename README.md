@@ -1,6 +1,7 @@
 # Indian Sign Language Detection
 * Provided a person makes the gestures in real-time or by feeding an image to the code, the aim is to detect which number he/she wants to convey.
 * Here is the approach by which I implemented this task.
+![](https://i.imgur.com/X2eZd58.png)
 ---
 ## METHOD
 1. Contour Detection and Convex hull are the prime features used for implementation.
