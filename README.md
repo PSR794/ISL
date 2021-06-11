@@ -24,8 +24,11 @@ Here is the drive link for the results
 
 
 SOFTWARES AND MODULES USED:
+
 Python 3.7
+
 Numpy 1.19.0
+
 OpenCV 4.2.0 
 
 
