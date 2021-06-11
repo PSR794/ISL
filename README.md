@@ -9,6 +9,9 @@
 3. As mentioned above, the convex hull encloses the given points. These vertices, in the case of a hand, are the fingertips.
 4. The coordinates of the following help to calculate the angle.
 5. The number of angles found between the tips is one less than the number of fingers.
+
+![](https://i.imgur.com/Aa2Oo1c.png)
+
 6. Thresholds imposed help us to avoid some undesired values of angles getting included in the count.
 7. Finally, with their number and signs, it is possible to identify the gestures.
 ---
